@@ -1,6 +1,6 @@
 ## **1. Análisis del sector tecnológico**
 
-El sector tecnológico está en constante crecimiento y las empresas dependen cada vez más de su presencia digital para operar. Hoy en día, incluso las PYMES necesitan una página web funcional y segura, ya que es su carta de presentación y, en muchos casos, su principal herramienta de ventas o contacto.
+El sector tecnológico está en constante crecimiento y las empresas dependen cada vez más de su presencia digital para operar. Hoy en día, incluso las PYMES necesitan una página web funcional y segura, ya que es su carta de presentación y, en muchos casos, su principal herramienta de ventas o contacto, ya que es la mejor manera de llegar a mas publico .
 
 El problema es que la mayoría de estas empresas **no tiene personal técnico especializado** y **no revisa el estado de seguridad de su web**, lo cual provoca:
 
