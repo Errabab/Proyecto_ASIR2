@@ -4,8 +4,8 @@
 
 ## Índice de apartados
 
-1.[ Análisis del sector tecnológico](documentos/1_analisis_del_sector_tecnologico.md)
 
+1. [ Análisis del sector tecnológico](documentos/1_analisis_del_sector_tecnologico.md)
 2. [Selección de la empresa o contexto de trabajo](documentos/2_Selección_de_la_empresa.md)
 3. Identificación de necesidades tecnológicas
 4. Oportunidades y viabilidad del proyecto
