@@ -51,4 +51,4 @@
 ---
 
 # Autor
-	Errabab Salec Ahriem
+Errabab Salec Ahriem
