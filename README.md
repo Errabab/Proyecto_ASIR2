@@ -11,8 +11,8 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
-## Título del proyecto:
+## Nombre del alumno: Errabab Salec Ahriem
+## Título del proyecto: Desarrollo de una Plataforma Automatizada de Auditoría de Seguridad Web para PYMES con Módulo Especializado en WordPress
 
 ## Índice del proyecto
 
