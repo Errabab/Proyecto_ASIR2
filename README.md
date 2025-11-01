@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto_2ASIR
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
@@ -11,8 +11,7 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno: Errabab Salec Ahriem
-## Título del proyecto: Desarrollo de una Plataforma Automatizada de Auditoría de Seguridad Web para PYMES con Módulo Especializado en WordPress
+## Desarrollo de una Plataforma Automatizada de Auditoría de Seguridad Web para PYMES con Módulo Especializado en WordPress
 
 ## Índice del proyecto
 
@@ -49,3 +48,4 @@
 3. Evaluación del proyecto  
 4. Documentación de cierre  
 
+### Nombre del alumno: Errabab Salec Ahriem
