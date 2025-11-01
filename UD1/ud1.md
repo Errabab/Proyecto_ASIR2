@@ -11,12 +11,7 @@
 5. Obligaciones legales y normativas
 6. Guion inicial del proyecto
 
-## Enlaces a recursos de la unidad
-
-- [Documentos de la unidad](./documentos/)
-- [Diagramas e imágenes](./img/)
-
-  ## Bibliografía / Webgrafía 
+## Referencias
 - Autor1, Título del libro o artículo, Editorial/Año.
 - Sitio web oficial: [Enlace](https://www.ejemplo.com)
 - Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
