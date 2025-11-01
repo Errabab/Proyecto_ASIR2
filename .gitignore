@@ -1,0 +1,25 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.slnx
+*.vsidx
+*.cache
+*.log
+
+# Carpetas de compilación
+bin/
+obj/
+out/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Configuración específica de IDE
+*.userprefs
