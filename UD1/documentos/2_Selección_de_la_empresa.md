@@ -1,6 +1,6 @@
 ## **2. Selección de la empresa o contexto de trabajo**
 
-El proyecto está pensado para **pequeñas y medianas empresas (PYMES)** que:
+El proyecto está diseñado para **pequeñas y medianas empresas (PYMES)** que:
 
 - Tienen una página web activa, normalmente alojada en un hosting compartido.  
 - Usan WordPress como gestor de contenidos.  
