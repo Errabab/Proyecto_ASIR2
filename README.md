@@ -48,4 +48,7 @@
 3. Evaluación del proyecto  
 4. Documentación de cierre  
 
-### Nombre del alumno: Errabab Salec Ahriem
+---
+
+# Autor
+	Errabab Salec Ahriem
