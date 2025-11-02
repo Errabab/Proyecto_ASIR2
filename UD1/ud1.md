@@ -1,6 +1,7 @@
 [Volver Atras ](../README.md)
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
+![ud1](./img/ud1.png)
 
 ## Índice de apartados
 
