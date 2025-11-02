@@ -10,15 +10,6 @@
 4. [Recursos y presupuesto](./documentos/4_Recursos_y_presupuesto.md)
 5. [Documentación técnica](./documentos/5_Documentación_técnica.md)
 
-## **Enlaces a recursos de la unidad**
-
-- **Documentos de la unidad:**  
-  `./documentos/`
-
-- **Diagramas e imágenes:**  
-  `./img/`
-
----
 
 ## Referencias
 
