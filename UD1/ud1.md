@@ -13,7 +13,15 @@
 6. [Guion inicial del proyecto](./documentos/6_Guion_inicial_del_proyecto.md)
 
 ## Referencias
-- Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+
+### Documentación oficial
+- OWASP ZAP – Sitio web oficial: https://www.zaproxy.org  
+- WPScan – Sitio web oficial: https://wpscan.com  
+- Nmap – Sitio web oficial: https://nmap.org  
+- Nikto Scanner – Documentación: https://cirt.net/Nikto2  
+
+### Guías y estándares
+- OWASP Top 10 – https://owasp.org/www-project-top-ten/  
+- Hardening WordPress – https://wordpress.org/documentation/article/hardening-wordpress/  
+- Mozilla Web Security Guidelines – https://infosec.mozilla.org/guidelines/web_security  
 
