@@ -1,6 +1,7 @@
 [Volver al índice general](../README.md)
 
 # UD3 – Planificación y ejecución del proyecto técnico
+![ud1](./img/ud3.png)
 
 ## Índice de apartados
 
