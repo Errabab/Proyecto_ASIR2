@@ -1,6 +1,7 @@
 [Volver al índice general](../README.md)
 
 # UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada
+![ud1](./img/ud2.png)
 
 ## Índice de apartados
 
