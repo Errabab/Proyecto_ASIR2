@@ -2,26 +2,38 @@
 
 ## **5. Valoración económica y control de costes**
 
-El proyecto está pensado para ser económico tanto en su desarrollo como en un posible servicio comercial.
+El proyecto se ha diseñado para desarrollarse sin ningún coste económico . Toda la infraestructura se ejecutara utilizando herramientas open source y una instancia de AWS proporcionada por el instituto, lo que permite crear el entorno completo sin necesidad de contratar servicios adicionales.
 
-### ✅ **Costes estimados del desarrollo**
-| Concepto | Coste |
-|----------|-------|
-| Servidor VPS básico | 10–20 €/mes |
-| Dominio (opcional) | 10 €/año |
-| Herramientas open source | 0 € |
-| Almacenamiento y backups | Incluido en el VPS |
-| Coste total aproximado | **10–20 €/mes** |
+### ✅ **Costes estimados del desarrollo (reales y aplicados al TFG)**
 
-### ✅ **Coste de una versión comercial (estimación futura)**
-- Adaptación del sistema a SaaS: ~300–500 €  
-- Imagen corporativa y web: ~100 €  
-- Publicidad mínima inicial: ~50–100 €  
+| Plataforma / Herramienta | Uso en el proyecto | Coste |
+|--------------------------|--------------------|-------|
+| **AWS Educativo (proporcionado por el centro)** | Ejecución del servidor, contenedores Docker y pruebas | 0 € |
+| **Docker** | Contenerización de módulos y aislamiento del entorno | 0 € |
+| **Nmap** | Escaneo de puertos y detección de servicios | 0 € |
+| **Nikto** | Análisis de configuraciones inseguras en servidores web | 0 € |
+| **OWASP ZAP (API)** | Auditoría automatizada de vulnerabilidades web | 0 € |
+| **WPScan (CLI gratuita)** | Auditoría específica para WordPress | 0 € |
+| **Python + Flask** | Backend, API interna y panel web | 0 € |
+| **Bash** | Automatización y ejecución de escaneos | 0 € |
+| **MariaDB (en Docker, versión gratuita)** | Base de datos para almacenar resultados e históricos | 0 € |
+| **Telegram Bot API** | Sistema de alertas en tiempo real | 0 € |
 
-### ✅ **Control de costes**
-- Todo el software utilizado es open source → 0€.  
-- Docker permite aislar servicios y evitar gastar en múltiples servidores.  
-- La base de datos será ligera para no requerir planes de hosting caros.  
-- El código se documentará para evitar gastos en soporte técnico externo.
+### ✅ **Coste total del proyecto: 0 €**
+
+Todos los componentes utilizados son gratuitos. AWS es proporcionado por el instituto y MariaDB funciona como contenedor sin coste, por lo que la infraestructura completa no genera gastos.
 
 ---
+
+### ✅ **Control de costes**
+
+Para mantener el proyecto con coste cero, se han seguido las siguientes directrices:
+
+- Uso exclusivo de **software open source**: Nmap, Nikto, ZAP, WPScan, Docker, MariaDB, Python, Flask.  
+- La ejecución del proyecto se realiza en **AWS educativo**, sin necesidad de contratar VPS o servicios externos.  
+- MariaDB se despliega en un contenedor Docker, evitando gastos en bases de datos gestionadas o servicios cloud de pago.  
+- No se utiliza dominio propio; el acceso puede realizarse mediante IP o subdominio gratuito.  
+- Toda la infraestructura se ejecuta en una sola instancia, optimizando el uso de recursos y evitando gastos adicionales.  
+
+Este planteamiento asegura un proyecto **totalmente funcional y profesional**, pero sin coste, cumpliendo los requisitos del TFG y aprovechando al máximo los recursos proporcionados por el instituto.
+
