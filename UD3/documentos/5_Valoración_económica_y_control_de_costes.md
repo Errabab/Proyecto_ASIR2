@@ -8,7 +8,7 @@ El proyecto se ha diseñado para desarrollarse sin ningún coste económico . To
 
 | Plataforma / Herramienta | Uso en el proyecto | Coste |
 |--------------------------|--------------------|-------|
-| **AWS Educativo (proporcionado por el centro)** | Ejecución del servidor, contenedores Docker y pruebas | 0 € |
+| **AWS  (proporcionado por el centro)** | Ejecución del servidor, contenedores Docker y pruebas | 0 € |
 | **Docker** | Contenerización de módulos y aislamiento del entorno | 0 € |
 | **Nmap** | Escaneo de puertos y detección de servicios | 0 € |
 | **Nikto** | Análisis de configuraciones inseguras en servidores web | 0 € |
