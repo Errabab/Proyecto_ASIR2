@@ -35,5 +35,5 @@ Para mantener el proyecto con coste cero, se han seguido las siguientes directri
 - No se utiliza dominio propio; el acceso puede realizarse mediante IP o subdominio gratuito.  
 - Toda la infraestructura se ejecuta en una sola instancia, optimizando el uso de recursos y evitando gastos adicionales.  
 
-Este planteamiento asegura un proyecto **totalmente funcional y profesional**, pero sin coste, cumpliendo los requisitos del TFG y aprovechando al máximo los recursos proporcionados por el instituto.
+Asi se asegura un proyecto **totalmente funcional y profesional**, pero sin coste,  aprovechando al máximo los recursos proporcionados por el instituto.
 
