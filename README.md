@@ -40,6 +40,12 @@
 4. Documentación de cierre  
 
 ---
+### [UD5 – Ejecución práctica y manuales del proyecto](./UD5/ud5.md)
+
+1. Instalación y despliegue paso a paso
+2. Comandos y ejecución práctica
+3. Manual de usuario
+4. Notas adicionales y buenas prácticas
 
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
