@@ -1,14 +1,5 @@
 # Proyecto_2ASIR
 
-**Diseño de Infraestructura Empresarial Segura y Automatizada**
-
-![Redes](https://img.shields.io/badge/Redes-SRI-blue)
-![Sistemas Operativos](https://img.shields.io/badge/SO-ASO-orange)
-![Servicios y Automatización](https://img.shields.io/badge/SAD%20%2F%20IAW-lightblue)
-![Bases de datos](https://img.shields.io/badge/SGBD-MySQL%20%2F%20PostgreSQL-green)
-![Seguridad](https://img.shields.io/badge/Seguridad-IPE2-red)
-![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
-![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
 # Desarrollo de una Plataforma Automatizada de Auditoría de Seguridad Web para PYMES con Módulo Especializado en WordPress
@@ -49,6 +40,17 @@
 4. Documentación de cierre  
 
 ---
+
+
+**Diseño de Infraestructura Empresarial Segura y Automatizada**
+
+![Redes](https://img.shields.io/badge/Redes-SRI-blue)
+![Sistemas Operativos](https://img.shields.io/badge/SO-ASO-orange)
+![Servicios y Automatización](https://img.shields.io/badge/SAD%20%2F%20IAW-lightblue)
+![Bases de datos](https://img.shields.io/badge/SGBD-MySQL%20%2F%20PostgreSQL-green)
+![Seguridad](https://img.shields.io/badge/Seguridad-IPE2-red)
+![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
+![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 # Autor
 Errabab Salec Ahriem
