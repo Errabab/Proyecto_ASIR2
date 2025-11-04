@@ -18,7 +18,5 @@ El desarrollo del proyecto se realizará siguiendo un proceso claro que permita 
    - Validación de resultados.
 9. **Documentar todo el proceso** y generar manuales.
 
-### ✅ **Entrega incremental**
-Cada módulo se prueba individualmente antes de integrarlo con el resto para evitar errores en cadena.
 
 ---
