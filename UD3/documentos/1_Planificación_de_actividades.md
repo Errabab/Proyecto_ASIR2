@@ -1,6 +1,6 @@
 [Volver Atras](../ud3.md)
 
-## **1. Planificación de actividades (ajustada al 15 de diciembre)**
+## **1. Planificación de actividades**
 
 Para llevar a cabo el proyecto de forma ordenada he adaptado la planificación para completarlo en **6 semanas**, manteniendo todas las fases necesarias.  
 He reorganizado tareas para hacer el desarrollo más compacto, aprovechando que muchos módulos pueden construirse en paralelo (scripts + panel + pruebas).
