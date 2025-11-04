@@ -15,11 +15,15 @@
 ## Referencias
 
 ### Documentación técnica
-- Docker Docs: https://docs.docker.com  
-- OWASP ZAP API: https://www.zaproxy.org/docs/api/  
-- WPScan Documentation: https://wpscan.com  
-- Nmap Reference Guide: https://nmap.org/book/  
+- GitHub Docs – Gestión de repositorios y control de versiones: https://docs.github.com  
+- Docker Docs – Gestión y monitorización de contenedores: https://docs.docker.com  
+- MariaDB Documentation – Administración y funcionamiento: https://mariadb.com/kb/en/documentation/  
+- OWASP ZAP – Uso de la API para auditorías automatizadas: https://www.zaproxy.org/docs/api/  
+- WPScan Documentation – Auditoría de WordPress: https://wpscan.com/  
+- Nmap Reference Guide – Uso de escáneres durante pruebas: https://nmap.org/book/  
 
 ### Guías de buenas prácticas
-- OWASP Testing Guide: https://owasp.org/www-project-web-security-testing-guide/  
-- Mozilla Web Security Guidelines: https://infosec.mozilla.org/guidelines/web_security  
+- OWASP Web Security Testing Guide – Pruebas y validación de seguridad: https://owasp.org/www-project-web-security-testing-guide/  
+- OWASP ASVS – Estándares de verificación de seguridad: https://owasp.org/ASVS/  
+- Mozilla Security Guidelines – Buenas prácticas para validación de seguridad: https://infosec.mozilla.org/guidelines/web_security  
+- GitHub Flow – Buenas prácticas de gestión de cambios: https://docs.github.com/en/get-started/quickstart/github-flow  
