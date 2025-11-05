@@ -5,4 +5,4 @@
 - **Permisos y seguridad:**
   - Ejecutar Prometheus como usuario `nobody` para mayor seguridad.
   - Mantener los directorios de datos con permisos adecuados.
-  - 
+  
