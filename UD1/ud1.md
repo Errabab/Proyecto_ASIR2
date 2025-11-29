@@ -46,18 +46,22 @@
     El entorno real objetivo —la web del instituto— permite ver un ejemplo de WordPress corporativo con estructura típica y plugins institucionales.
 3. **Identificación de necesidades**
     Las necesidades principales que cubre este proyecto son:
+
     🔐 **Necesidades de seguridad**
        * Conocer el estado real de seguridad de una web WordPress.
        * Identificar riesgos antes de que provoquen incidentes.
        * Obtener un informe claro y útil para tomar decisiones técnicas.
+  
     ⚙️ **Necesidades de automatización**
        * Automatizar pruebas técnicas que normalmente requieren varias herramientas separadas.
        * Un script que cualquier usuario pueda ejecutar sin conocimientos avanzados.
        * Reducir tiempos de análisis y evitar errores humanos.
+  
     📊 **Necesidades de documentación**
        * Generar informes completos para el cliente.
        * Registrar evidencias mediante capturas y logs.
        * Establecer una base para auditorías periódicas.
+  
     💼 **Necesidades del cliente**
        * Disponer de una auditoría inicial sin coste adicional.
        * Tener una visión transparente del estado de su web.
